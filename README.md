@@ -5,15 +5,10 @@
 
 <!--Start Intro-->               
 - ✨ I am a Full Stack Developer with a huge love for Java, Javascript, Node.js, Next.js, React.js
-- 🔭 I’m currently working on [Get-Feedback](https://github.com/kishanV2321/secure-file-sharing)
-- 🔎 You will find me most active on [@hruthik_28](https://www.linkedin.com/in/kishanverma23/).
+- 🔭 I’m currently working on [Secure-File-Sharing](https://github.com/kishanV2321/secure-file-sharing)
+- 🔎 You will find me most active on [@kishanverma23](https://www.linkedin.com/in/kishanverma23/).
 - 💻 Visit my [Portfolio](https://github.com/kishanV2321) for more details about me.
 <!--End Intro-->
-
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kishanV2321&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Hruthik" style="padding-right:20px;" />
-</p>
 
 
 <!--Languages and Tools Section-->       
